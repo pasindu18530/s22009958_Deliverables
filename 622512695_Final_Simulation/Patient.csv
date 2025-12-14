@@ -1,0 +1,11 @@
+﻿patient_id,age,gender,arrival_time,visit_type,severity_level,department_id
+P001,45,Female,10/15/2025 8:15,Scheduled,Medium,D001
+P002,63,Male,10/15/2025 9:05,Walk-in,High,D002
+P003,29,Female,10/15/2025 9:18,Scheduled,Low,D003
+P004,51,Male,10/15/2025 10:12,Walk-in,High,D001
+P005,37,Female,10/15/2025 10:30,Scheduled,Medium,D004
+P006,56,Male,10/15/2025 10:30,Scheduled,High,D003
+P007,34,Male,10/15/2025 10:30,Walk-in,Medium,D001
+P008,42,Female,10/15/2025 10:30,Walk-in,High,D004
+P009,35,Male,10/15/2025 10:30,Scheduled,Low,D002
+P010,68,Female,10/15/2025 10:30,Scheduled,High,D001
