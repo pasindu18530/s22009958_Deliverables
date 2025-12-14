@@ -1,6 +1,0 @@
-﻿event_id,patient_id,department_id,service_type,arrival_time,service_start_time,service_end_time,waiting_time_minutes
-E001,P001,D001,Registration,2025-10-15 08:15,2025-10-15 08:20,2025-10-15 08:25,5
-E002,P001,D001,Consultation,2025-10-15 08:25,2025-10-15 08:40,2025-10-15 09:00,15
-E003,P002,D002,Consultation,2025-10-15 09:05,2025-10-15 09:10,2025-10-15 09:45,5
-E004,P003,D003,Laboratory,2025-10-15 09:18,2025-10-15 09:55,2025-10-15 10:15,37
-E005,P004,D001,Consultation,2025-10-15 10:12,2025-10-15 10:40,2025-10-15 11:20,28
